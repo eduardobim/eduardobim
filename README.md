@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eduardobim
-- 👀 I’m interested in Python and JavaScript
+- 👀 I’m interested in Python, Java, JavaScript, C++, C#
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on knowledge of Mechanical Engineering applied to programming
 - 📫 How to reach me: eduardobim@gmail.com
